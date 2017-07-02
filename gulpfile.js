@@ -26,7 +26,7 @@ var products = [
 ];
 
 var vendor = [
-  'vendor/three.js',
+  'node_modules/three/build/three.js',
   'vendor/threestrap/build/threestrap.js',
   'vendor/threestrap/vendor/renderers/VRRenderer.js',
   'vendor/threestrap/vendor/controls/VRControls.js',

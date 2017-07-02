@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "coffee-script": "^1.10.0",
-    "three": "^0.72.0"
+    "three": "^0.85.2"
   },
   "devDependencies": {
     "browserify": "^11.2.0",
